@@ -1,8 +1,8 @@
-- 👋 Hello there, I’m known as @arte504 and my IRL name is Artiom and i'm SWE student.
+- 👋 Hello there, I’m known as @arte504 and my IRL name is Artiom.
 
 - 👀 Interested in Development and GameDev.
 
-- 📓 Currently learning C++/Python. Trying to make my first chatbot in python by now.
+- 📓 Currently learning Web Dev, C++ & Python.
 
 - 💞️ I’m looking to collaborate on everything that will help me to learn something new!
 -     Will be happy if you will connect me with projects offers :)
