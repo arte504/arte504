@@ -12,10 +12,10 @@
 # ***How to reach me?***
 
 📫 ***You can reach me this ways:***
-- Instagram direct: @arte504
+- [Instagram direct](https://www.instagram.com/arte504/): @arte504
 - Discord: arte504#0504
 - Email: arte504@gmail.com
-- Reddit: u/arte504
+- [Reddit](https://www.reddit.com/user/arte504): u/arte504
 
 # ***My hobbies/Fun facts***
 
