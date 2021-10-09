@@ -1,4 +1,4 @@
-# 👋 ***Hello there***, I’m known as @arte504 and my IRL name is Artiom.
+# 👋 ***Hello there***, I’m Artiom.
 
 
 - 👀 Interested in Web-Dev, APPs-Dev and GameDev.
