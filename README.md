@@ -1,4 +1,4 @@
-# 👋 ***Hello there***, I’m Artiom.
+# 👋 ***Hello there***, I’m Artiom(also Artyom or even Artem).
 
 - 👀 Interested in Web-Dev, APPs-Dev and GameDev.
 
