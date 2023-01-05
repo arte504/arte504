@@ -2,7 +2,7 @@
 
 - 👀 Interested in Web-Dev, APPs-Dev and GameDev.
 
-- 📓 **Currently:** learning Web Dev, C/C++ & Python. *Web Dev is in prior by now!*
+- 📓 **Currently:** Know C/C++, learning Web Dev & Python. *Python is in prior by now!*
 
 # ***What I'm looking for?***
 
